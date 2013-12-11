@@ -1,3 +1,5 @@
 *~
 *.out
 *.exe
+/GCode/build/
+/GCode/dist/
